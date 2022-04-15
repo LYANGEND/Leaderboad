@@ -1,15 +1,16 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard List Application with API
 
-> Description the project.
+> This application lists the names of people and their recent scores, it also allows users to add their respective names and scores to be displayed on the leaderboard.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Webpack
+- Javascript
+- HTML,CSS
+-
 
 ## Live Demo (if available)
 
@@ -22,35 +23,19 @@
 **Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
 
-To get a local copy up and running follow these simple example steps.
+o get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+1. Clone Repository 
+git@github.com:LYANGEND/leaderboard.git
 
 
+## Author
 
-## Authors
+👤 **DAVID LYANGENDA**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/LYANGEND)
+- Twitter: [@twitterhandle](https://twitter.com/david_lyangenda)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/david-lyangenda-623087151/)
 
 ## 🤝 Contributing
 
